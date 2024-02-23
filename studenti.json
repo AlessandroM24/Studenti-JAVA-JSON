@@ -1,0 +1,603 @@
+[
+  {
+    "classe": "3ainf",
+    "studenti": [
+      {
+        "utente": "sAGBEKOR",
+        "cognome": "AGBEKORNU",
+        "nome": "DAVE BILL",
+        "email": "sdave.agbekornu@itis.pr.it",
+        "classe": "3a2"
+      },
+      {
+        "utente": "sAGNETTI7",
+        "cognome": "AGNETTI",
+        "nome": "ROBERTO",
+        "email": "sroberto.agnetti@itis.pr.it",
+        "classe": "3a2"
+      },
+      {
+        "utente": "sARCURI2",
+        "cognome": "ARCURI",
+        "nome": "GLORIA",
+        "email": "sgloria.arcuri@itis.pr.it",
+        "classe": "3a2"
+      },
+      {
+        "utente": "sASHYFIN",
+        "cognome": "ASHYFIN",
+        "nome": "MYKHAYLO",
+        "email": "smykhaylo.ashyfin@itis.pr.it",
+        "classe": "3a2"
+      },
+      {
+        "utente": "sBARBACI1",
+        "cognome": "BARBACINI",
+        "nome": "RICCARDO",
+        "email": "sriccardo.barbacini@itis.pr.it",
+        "classe": "3a2"
+      },
+      {
+        "utente": "sBENHOU1",
+        "cognome": "BEN HOUSSINE",
+        "nome": "ADAM",
+        "email": "sadam.benhoussine@itis.pr.it",
+        "classe": "3a2"
+      },
+      {
+        "utente": "sBIGNOTT",
+        "cognome": "BIGNOTTI",
+        "nome": "LORENZO",
+        "email": "slorenzo.bignotti@itis.pr.it",
+        "classe": "3a2"
+      },
+      {
+        "utente": "sCACCAVA1",
+        "cognome": "CACCAVALLO",
+        "nome": "GIOVANNI",
+        "email": "sgiovanni.caccavallo@itis.pr.it",
+        "classe": "3a2"
+      },
+      {
+        "utente": "sCAVALCA5",
+        "cognome": "CAVALCA",
+        "nome": "LEONARDO",
+        "email": "sleonardo.cavalca@itis.pr.it",
+        "classe": "3a2"
+      },
+      {
+        "utente": "sCOPPELL2",
+        "cognome": "COPPELLOTTI",
+        "nome": "LUCA",
+        "email": "sluca.coppellotti@itis.pr.it",
+        "classe": "3a2"
+      },
+      {
+        "utente": "sDISALV1",
+        "cognome": "DI SALVATORE",
+        "nome": "DARIO",
+        "email": "sdario.disalvatore@itis.pr.it",
+        "classe": "3a2"
+      },
+      {
+        "utente": "sDJEBALI",
+        "cognome": "DJEBALI",
+        "nome": "OMAR",
+        "email": "somar.djebali@itis.pr.it",
+        "classe": "3a2"
+      },
+      {
+        "utente": "sESPOSIT14",
+        "cognome": "ESPOSITO",
+        "nome": "DIEGO",
+        "email": "sdiego.esposito@itis.pr.it",
+        "classe": "3a2"
+      },
+      {
+        "utente": "sFORNACI3",
+        "cognome": "FORNACIARI",
+        "nome": "MATTEO",
+        "email": "smatteo.fornaciari@itis.pr.it",
+        "classe": "3a2"
+      },
+      {
+        "utente": "sFRANCAV1",
+        "cognome": "FRANCAVILLA",
+        "nome": "MATTEO",
+        "email": "smatteo.francavilla@itis.pr.it",
+        "classe": "3a2"
+      },
+      {
+        "utente": "sFRATTAR",
+        "cognome": "FRATTARUOLO",
+        "nome": "SALVATORE",
+        "email": "ssalvatore.frattaruolo@itis.pr.it",
+        "classe": "3a2"
+      },
+      {
+        "utente": "sGASPARE4",
+        "cognome": "GASPARETTI",
+        "nome": "MATTHEW",
+        "email": "smatthew.gasparetti@itis.pr.it",
+        "classe": "3a2"
+      },
+      {
+        "utente": "sGRANELL1",
+        "cognome": "GRANELLI",
+        "nome": "RICCARDO",
+        "email": "sriccardo.granelli@itis.pr.it",
+        "classe": "3a2"
+      },
+      {
+        "utente": "sIZEM1",
+        "cognome": "IZEM",
+        "nome": "ADAM",
+        "email": "sadam.izem@itis.pr.it",
+        "classe": "3a2"
+      },
+      {
+        "utente": "sLAMANUZ1",
+        "cognome": "LAMANUZZI",
+        "nome": "NICOLO'",
+        "email": "snicolo.lamanuzzi@itis.pr.it",
+        "classe": "3a2"
+      },
+      {
+        "utente": "sPREDIER",
+        "cognome": "PREDIERI",
+        "nome": "TOMMASO",
+        "email": "stommaso.predieri@itis.pr.it",
+        "classe": "3a2"
+      },
+      {
+        "utente": "sRIZZO5",
+        "cognome": "RIZZO",
+        "nome": "MATTIA PIO",
+        "email": "smattia.rizzo@itis.pr.it",
+        "classe": "3a2"
+      },
+      {
+        "utente": "sSOZZI4",
+        "cognome": "SOZZI",
+        "nome": "MATTIA",
+        "email": "smattia.sozzi@itis.pr.it",
+        "classe": "3a2"
+      },
+      {
+        "utente": "sTATARU2",
+        "cognome": "TATARU",
+        "nome": "COSTANTINO",
+        "email": "scostantino.tataru@itis.pr.it",
+        "classe": "3a2"
+      },
+      {
+        "utente": "sTOFAN1",
+        "cognome": "TOFAN",
+        "nome": "IAROSLAV",
+        "email": "siaroslav.tofan@itis.pr.it",
+        "classe": "3a2"
+      },
+      {
+        "utente": "sUSBERTI2",
+        "cognome": "USBERTI",
+        "nome": "DAVIDE",
+        "email": "sdavide.usberti@itis.pr.it",
+        "classe": "3a2"
+      },
+      {
+        "utente": "sZACCARI4",
+        "cognome": "ZACCARINI",
+        "nome": "PIETRO",
+        "email": "spietro.zaccarini@itis.pr.it",
+        "classe": "3a2"
+      },
+      {
+        "utente": "sZEKO",
+        "cognome": "ZEKO",
+        "nome": "MARIA",
+        "email": "smaria.zeko@itis.pr.it",
+        "classe": "3a2"
+      }
+    ]
+  },
+  {
+    "classe": "4ainf",
+    "studenti": [
+      {
+        "utente": "sAGHEM",
+        "cognome": "AGHEM",
+        "nome": "LEONARDO OSCAR",
+        "email": "sleonardo.aghem@itis.pr.it",
+        "classe": "4a2"
+      },
+      {
+        "utente": "sARCHETT1",
+        "cognome": "ARCHETTI",
+        "nome": "ALESSANDRO",
+        "email": "salessandro.archetti@itis.pr.it",
+        "classe": "4a2"
+      },
+      {
+        "utente": "sASCENSO",
+        "cognome": "ASCENSO",
+        "nome": "DIEGO",
+        "email": "sdiego.ascenso@itis.pr.it",
+        "classe": "4a2"
+      },
+      {
+        "utente": "sBOADO",
+        "cognome": "BOADO",
+        "nome": "HAROLD DE RUEDA",
+        "email": "sharold.boado@itis.pr.it",
+        "classe": "4a2"
+      },
+      {
+        "utente": "sBOTTAZZ5",
+        "cognome": "BOTTAZZI",
+        "nome": "GIACOMO",
+        "email": "sgiacomo.bottazzi@itis.pr.it",
+        "classe": "4a2"
+      },
+      {
+        "utente": "sBROSHKA1",
+        "cognome": "BROSHKA",
+        "nome": "ALESIO",
+        "email": "salesio.broshka@itis.pr.it",
+        "classe": "4a2"
+      },
+      {
+        "utente": "sCHEN9",
+        "cognome": "CHEN",
+        "nome": "SHENGJIE",
+        "email": "sshengjie.chen@itis.pr.it",
+        "classe": "4a2"
+      },
+      {
+        "utente": "sCIRSTEA",
+        "cognome": "CIRSTEA",
+        "nome": "DAVID",
+        "email": "sdavid.cirstea@itis.pr.it",
+        "classe": "4a2"
+      },
+      {
+        "utente": "sDAZZI5",
+        "cognome": "DAZZI",
+        "nome": "PIETRO",
+        "email": "spietro.dazzi@itis.pr.it",
+        "classe": "4a2"
+      },
+      {
+        "utente": "sDEMARC",
+        "cognome": "DE MARCHI",
+        "nome": "SAMUELE",
+        "email": "ssamuele.demarchi@itis.pr.it",
+        "classe": "4a2"
+      },
+      {
+        "utente": "sDIOP4",
+        "cognome": "DIOP",
+        "nome": "MOMODOU",
+        "email": "smomodou.diop@itis.pr.it",
+        "classe": "4a2"
+      },
+      {
+        "utente": "sDOLEANS",
+        "cognome": "DOLEANSCHII",
+        "nome": "BOGDAN",
+        "email": "sbogdan.doleanschii@itis.pr.it",
+        "classe": "4a2"
+      },
+      {
+        "utente": "sFOCHI7",
+        "cognome": "FOCHI",
+        "nome": "LORENZO",
+        "email": "slorenzo.fochi@itis.pr.it",
+        "classe": "4a2"
+      },
+      {
+        "utente": "sGENNARI5",
+        "cognome": "GENNARI",
+        "nome": "MATTEO",
+        "email": "smatteo.gennari@itis.pr.it",
+        "classe": "4a2"
+      },
+      {
+        "utente": "sHU3",
+        "cognome": "HU",
+        "nome": "YUN WEI LUCA",
+        "email": "syun.hu@itis.pr.it",
+        "classe": "4a2"
+      },
+      {
+        "utente": "sIANNOTT",
+        "cognome": "IANNOTTA",
+        "nome": "FABIO",
+        "email": "sfabio.iannotta@itis.pr.it",
+        "classe": "4a2"
+      },
+      {
+        "utente": "sKONI",
+        "cognome": "KONI",
+        "nome": "INIRD",
+        "email": "sinird.koni@itis.pr.it",
+        "classe": "4a2"
+      },
+      {
+        "utente": "sKRUSA",
+        "cognome": "KRUSA",
+        "nome": "AUREL",
+        "email": "saurel.krusa@itis.pr.it",
+        "classe": "4a2"
+      },
+      {
+        "utente": "sLAURO",
+        "cognome": "LAURO",
+        "nome": "SIMONE",
+        "email": "ssimone.lauro@itis.pr.it",
+        "classe": "4a2"
+      },
+      {
+        "utente": "sMANISCA1",
+        "cognome": "MANISCALCO",
+        "nome": "GIULIO",
+        "email": "sgiulio.maniscalco@itis.pr.it",
+        "classe": "4a2"
+      },
+      {
+        "utente": "sOVREZZI2",
+        "cognome": "OVREZZI",
+        "nome": "MANUEL",
+        "email": "smanuel.ovrezzi@itis.pr.it",
+        "classe": "4a2"
+      },
+      {
+        "utente": "sPARHAR",
+        "cognome": "PARHAR",
+        "nome": "HARSHVIR SINGH",
+        "email": "sharshvir.parhar@itis.pr.it",
+        "classe": "4a2"
+      },
+      {
+        "utente": "sSACCANI18",
+        "cognome": "SACCANI",
+        "nome": "ROBERTO",
+        "email": "sroberto.saccani@itis.pr.it",
+        "classe": "4a2"
+      }
+    ]
+  },
+  {
+    "classe": "4cinf",
+    "studenti": [
+      {
+        "utente": "sBAREZZI1",
+        "cognome": "BAREZZI",
+        "nome": "IRENE MORGANA",
+        "email": "sirene.barezzi@itis.pr.it",
+        "classe": "4c2"
+      },
+      {
+        "utente": "sBERNAZZ4",
+        "cognome": "BERNAZZOLI",
+        "nome": "LORENZO",
+        "email": "slorenzo.bernazzoli@itis.pr.it",
+        "classe": "4c2"
+      },
+      {
+        "utente": "sBONAZZI4",
+        "cognome": "BONAZZI",
+        "nome": "MATTIA",
+        "email": "smattia.bonazzi@itis.pr.it",
+        "classe": "4c2"
+      },
+      {
+        "utente": "sCERVI4",
+        "cognome": "CERVI",
+        "nome": "MARIA VITTORIA",
+        "email": "smaria.cervi@itis.pr.it",
+        "classe": "4c2"
+      },
+      {
+        "utente": "sCINCA",
+        "cognome": "CINCA",
+        "nome": "VICTOR GIORGIO",
+        "email": "svictor.cinca@itis.pr.it",
+        "classe": "4c2"
+      },
+      {
+        "utente": "sDEPIET1",
+        "cognome": "DE PIETRI",
+        "nome": "DYLAN",
+        "email": "sdylan.depietri@itis.pr.it",
+        "classe": "4c2"
+      },
+      {
+        "utente": "sILLARI3",
+        "cognome": "ILLARI",
+        "nome": "DIEGO",
+        "email": "sdiego.illari@itis.pr.it",
+        "classe": "4c2"
+      },
+      {
+        "utente": "sLAROCC1",
+        "cognome": "LA ROCCA",
+        "nome": "RICCARDO",
+        "email": "sriccardo.larocca@itis.pr.it",
+        "classe": "4c2"
+      },
+      {
+        "utente": "sLOBOS",
+        "cognome": "LOBOS",
+        "nome": "MICHELE CHRISTIAN",
+        "email": "smichele.lobos@itis.pr.it",
+        "classe": "4c2"
+      },
+      {
+        "utente": "sMACALUS",
+        "cognome": "MACALUSO",
+        "nome": "ALESSANDRO",
+        "email": "salessandro.macaluso@itis.pr.it",
+        "classe": "4c2"
+      },
+      {
+        "utente": "sMARI2",
+        "cognome": "MARI",
+        "nome": "NICOLO'",
+        "email": "snicolo.mari@itis.pr.it",
+        "classe": "4c2"
+      },
+      {
+        "utente": "sMONTANI2",
+        "cognome": "MONTANINI",
+        "nome": "RICCARDO",
+        "email": "sriccardo.montanini@itis.pr.it",
+        "classe": "4c2"
+      },
+      {
+        "utente": "sNKAIN",
+        "cognome": "NKAIN",
+        "nome": "NSANGLII DZELAMONYUY",
+        "email": "snsanglii.nkain@itis.pr.it",
+        "classe": "4c2"
+      },
+      {
+        "utente": "sPLAKA",
+        "cognome": "PLAKA",
+        "nome": "YZEIR",
+        "email": "syzeir.plaka@itis.pr.it",
+        "classe": "4c2"
+      },
+      {
+        "utente": "sPURICI",
+        "cognome": "PURICI",
+        "nome": "MATTEO",
+        "email": "smatteo.purici@itis.pr.it",
+        "classe": "4c2"
+      },
+      {
+        "utente": "sSANZO",
+        "cognome": "SANZO",
+        "nome": "MANUEL",
+        "email": "smanuel.sanzo@itis.pr.it",
+        "classe": "4c2"
+      },
+      {
+        "utente": "sSCHIANC26",
+        "cognome": "SCHIANCHI",
+        "nome": "NICOLA",
+        "email": "snicola.schianchi@itis.pr.it",
+        "classe": "4c2"
+      }
+    ]
+  },
+  {
+    "classe": "5cinf",
+    "studenti": [
+      {
+        "utente": "sALAIA",
+        "cognome": "ALAIA",
+        "nome": "SIMONE",
+        "email": "ssimone.alaia@itis.pr.it",
+        "classe": "5c2"
+      },
+      {
+        "utente": "sARABIA",
+        "cognome": "ARABIA",
+        "nome": "ISSMAIL",
+        "email": "sissmail.arabia@itis.pr.it",
+        "classe": "5c2"
+      },
+      {
+        "utente": "sBERNARD7",
+        "cognome": "BERNARDI",
+        "nome": "TOMMASO",
+        "email": "stommaso.bernardi@itis.pr.it",
+        "classe": "5c2"
+      },
+      {
+        "utente": "sBERTOLI21",
+        "cognome": "BERTOLI",
+        "nome": "DIEGO",
+        "email": "sdiego.bertoli@itis.pr.it",
+        "classe": "5c2"
+      },
+      {
+        "utente": "sBURALDI",
+        "cognome": "BURALDI",
+        "nome": "PIETRO",
+        "email": "spietro.buraldi@itis.pr.it",
+        "classe": "5c2"
+      },
+      {
+        "utente": "sDIBUON",
+        "cognome": "DI BUONO",
+        "nome": "LORENZO",
+        "email": "slorenzo.dibuono@itis.pr.it",
+        "classe": "5c2"
+      },
+      {
+        "utente": "sLACHUNO",
+        "cognome": "LACHUNOU MOUGOUE'",
+        "nome": "NICOLAS",
+        "email": "snicolas.lachunoumougoue@itis.pr.it",
+        "classe": "5c2"
+      },
+      {
+        "utente": "sMALINOW",
+        "cognome": "MALINOWSKI",
+        "nome": "REMIGIUSZ MARIUSZ",
+        "email": "sremigiusz.malinowski@itis.pr.it",
+        "classe": "5c2"
+      },
+      {
+        "utente": "sMINARI5",
+        "cognome": "MINARI",
+        "nome": "FRANCESCO",
+        "email": "sfrancesco.minari@itis.pr.it",
+        "classe": "5c2"
+      },
+      {
+        "utente": "sPERROTT4",
+        "cognome": "PERROTTI",
+        "nome": "ANDREA",
+        "email": "sandrea.perrotti@itis.pr.it",
+        "classe": "5c2"
+      },
+      {
+        "utente": "sPETTI",
+        "cognome": "PETTI",
+        "nome": "FEDERICO",
+        "email": "sfederico.petti@itis.pr.it",
+        "classe": "5c2"
+      },
+      {
+        "utente": "sPREGUZA",
+        "cognome": "PREGUZA",
+        "nome": "VICTOR",
+        "email": "svictor.preguza@itis.pr.it",
+        "classe": "5c2"
+      },
+      {
+        "utente": "sROSA8",
+        "cognome": "ROSA",
+        "nome": "MICHELE",
+        "email": "smichele.rosa@itis.pr.it",
+        "classe": "5c2"
+      },
+      {
+        "utente": "sUBALDI5",
+        "cognome": "UBALDI",
+        "nome": "ALVARO ROCCO",
+        "email": "salvaro.ubaldi@itis.pr.it",
+        "classe": "5c2"
+      },
+      {
+        "utente": "sVALLE",
+        "cognome": "VALLE'",
+        "nome": "GREGORIO MARIA",
+        "email": "sgregorio.valle@itis.pr.it",
+        "classe": "5c2"
+      }
+    ]
+  }
+]

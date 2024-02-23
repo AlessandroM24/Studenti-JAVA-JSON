@@ -1,0 +1,49 @@
+{
+  "studenti": [
+    {
+      "email": "sriccardo.larocca@itis.pr.it",
+      "classe": "3ainf",
+      "voti": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "email": "smattia.bonazzi@itis.pr.it",
+      "classe": "3ainf",
+      "voti": [
+        10,
+        2,
+        6
+      ]
+    },
+    {
+      "email": "salessandro.macaluso@itis.pr.it",
+      "classe": "4ainf",
+      "voti": [
+        8,
+        7,
+        6
+      ]
+    },
+    {
+      "email": "smanuel.sanzo@itis.pr.it",
+      "classe": "5cinf",
+      "voti": [
+        7,
+        5,
+        3
+      ]
+    },
+    {
+      "email": "sriccardo.montanini@itis.pr.it",
+      "classe": "5cinf",
+      "voti": [
+        6,
+        7,
+        2
+      ]
+    }
+  ]
+}
